@@ -27,7 +27,7 @@ Sentiment analysis is the process of determining whether a piece of text is **po
 ---
 
 ## 📁 Project Structure
-
+'''bash
 NLP-Sentiment-Analysis/
 ├── NLP Project 3 - Twitter Sentiment Analysis with Random Forest.ipynb   # Jupyter notebook with full analysis
 ├── app.py                                                               # Streamlit web app for sentiment prediction
@@ -35,7 +35,7 @@ NLP-Sentiment-Analysis/
 ├── README.md                                                            # Project documentation
 └── model.pkl (optional)                                                 # Trained Random Forest model (if saved separately)
 
-
+'''
 ---
 
 ## 📊 Dataset
